@@ -1,0 +1,24 @@
+F1 instance, Q to James Bond, Invincible(superman), stealth(batman), super speed(flash),micro services, lambda serverless, Aws x ray, dax dynamodb accelerator, aurora, redshift spectrum(vs hive, 5 yrs to 155secs), machine learning at amazon.com, amazon rekognition, amazon polly, amazon lex(the future- speech recognition and natural language understanding), amazon workspace, Aws migration acceleration program
+
+
+Step 2. Aws database migration service(dms) - without downtime, change data capture (cdc), RDS, 5tb in 33hrs - <$10 per tb, 
+Step 1. Aws schema conversion tool(SCT)- free- SCT assessment report
+
+Iam users, groups, roles, policies. Other servers can be compromised. Aws have so many iso like certifications (avail under artifacts), cloudtrail, cloudwatch, encryption with Aws kms, cloudHMS, awssheiled, ddos pryectiob. Aws WAF, cloudwatch events to detect attack
+
+Demo
+Got add ., codedeploy
+Create iam user
+Add codedeploy api access policy
+Check programmatic access
+Copy key and code(must)
+Add codedeploy to git hub, settings > integration &... 
+In iam codedeploy
+Github Settings > personal access tokens generate
+- continues integration
+
+Amazon echo > Alexa skill > lambda > fb page
+Amazon Polly and lex
+Amazon rekognition
+Echosim.io
+What's new Aws page

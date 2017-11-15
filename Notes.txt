@@ -9,6 +9,7 @@ Iam users, groups, roles, policies. Other servers can be compromised. Aws have s
 Demo
 Got add ., codedeploy
 Create iam user
+
 Add codedeploy api access policy
 Check programmatic access
 Copy key and code(must)
@@ -22,3 +23,5 @@ Amazon Polly and lex
 Amazon rekognition
 Echosim.io
 What's new Aws page
+
+AWS 10 Minute Tutorials : https://aws.amazon.com/getting-started/tutorials/
